@@ -1,2 +1,0 @@
-This is file from remote 720-2
-fork test
